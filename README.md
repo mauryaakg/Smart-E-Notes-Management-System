@@ -61,7 +61,7 @@ Follow these steps to run the project locally 👇
 ![Dashboard](screenshots/dashboard.png)
 
 ### Registration
-![Registration](screenshots/Registration.png
+![Registration](screenshots/Registration.png)
 
 
 
