@@ -38,3 +38,15 @@ Follow these steps to run the project locally 👇
 - Web browser (Chrome, Edge, or Firefox)  
 - GitHub account (for project hosting)
 
+### 3️⃣ Steps to Run
+1. Copy this folder `Smart-E-Notes-Management-System` to `C:\xampp\htdocs\`
+2. Open XAMPP Control Panel → Start Apache & MySQL
+3. Go to phpMyAdmin and create a database named `smart_enotes`
+4. Import the SQL file from `database/smart_enotes.sql`
+5. Open `includes/config.php` and check your database connection details:
+   ```php
+   $conn = mysqli_connect("localhost", "root", "", "smart_enotes");
+6.	Now open your browser and type:
+              http://localhost/Smart-E-Notes-Management-System/
+
+7.	✅ Done! Your project will open.    
