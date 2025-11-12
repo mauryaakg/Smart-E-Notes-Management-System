@@ -60,4 +60,8 @@ Follow these steps to run the project locally 👇
 ### 📚 Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
+### Registration
+![Registration](screenshots/Registration.png
+
+
 
