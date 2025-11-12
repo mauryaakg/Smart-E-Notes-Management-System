@@ -49,4 +49,15 @@ Follow these steps to run the project locally 👇
 6.	Now open your browser and type:
               http://localhost/Smart-E-Notes-Management-System/
 
-7.	✅ Done! Your project will open.    
+7.	✅ Done! Your project will open.
+
+
+## 📸 Screenshots
+
+### 🪪 Login Page
+![Login Page](screenshots/login.png)
+
+### 📚 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+
